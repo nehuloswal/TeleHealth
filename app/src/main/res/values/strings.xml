@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TeleHealth</string>
+    <string name="Name" />
+    <string name="Hospital" />
+    <array  name="Slots">
+        <item>9:00 - 10:00</item>
+        <item>10:00 - 11:00</item>
+        <item>11:00 - 12:00</item>
+        <item>12:00 - 13:00</item>
+        <item>15:00 - 16:00</item>
+        <item>16:00 - 17:00</item>
+    </array>
+</resources>
